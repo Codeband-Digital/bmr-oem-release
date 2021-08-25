@@ -21,7 +21,6 @@ businessmediarussia.ru - продакшн
 Это позволит проще развернуть на этом окружении другие корп. сайты клиента.
 
 #### Необходимые расширения PHP
-- FileInfo
 - GD Library (>=2.0) или Imagick PHP extension (>=6.5.7)
 - BCMath PHP Extension
 - Ctype PHP Extension
